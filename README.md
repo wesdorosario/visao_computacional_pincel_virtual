@@ -7,7 +7,7 @@ Este é um projeto em **Python** com foco em **Visão Computacional**, que permi
 # Bibliotecas utilizadas:
 
 - `opencv-python`: para capturar e processar o vídeo da webcam.
-- `cvzone`: para detectar mãos e identificar dedos levantados de forma simples e precisa.
+- `cvzone`: para detectar mãos e identificar dedos levantados de forma simples e precisa. (Utiliza o MediaPipe internamente alguns em módulos).
 
 ---
 
